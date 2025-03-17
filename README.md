@@ -4,6 +4,32 @@
 
 InnerSight is a project dedicated to transforming information into wisdom by focusing on self-understanding and actionable insights. Instead of simply accumulating more knowledge, the goal is to internalize and implement the wisdom that already lies within you.
 
+---
+
+```mermaid
+mindmap
+  root((InnerSight))
+    %% 第一层
+    Plan(Plan)
+      %% 第二层
+      MentalModelUpgrade(01 Mental Model Upgrade<br>心智模型升级)
+
+    Do(Do)
+      AttentionManagement(02 Attention Management<br>注意力管理)
+      DecisionMaking(03 Decision Making Deconstructed<br>决策解构)
+      ImplementationGap(04 The Implementation Gap<br>执行差距)
+
+    Check(Check)
+      SystemDesign(05 System Design<br>系统设计)
+      Relationship(06 Relationship Dynamics<br>人际关系动态)
+
+    Act(Act)
+      SuccessParadox(07 The Success Paradox<br>成功悖论)
+      IdentityTransformation(08 Identity-Based Transformation<br>基于身份的转变)
+```
+
+---
+
 ## Overview
 
 - **Beyond Accumulation:**  
@@ -17,11 +43,12 @@ InnerSight is a project dedicated to transforming information into wisdom by foc
 
 ## Your Challenge
 
-Don't just passively consume content—engage with it actively. Identify one insight from this project that resonates deeply with you and implement it immediately. Ask yourself:
+Don't just passively consume content—engage with it actively. Identify one insight from this project that resonates deeply with you and implement it immediately.
 
-> *"What am I ready to implement 30 years from now? What will I wish I had understood today?"*
 
 The wisdom is already within you. Take the challenge and start your journey toward actionable self-improvement.
+
+
 
 ## Getting Started
 
