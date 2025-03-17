@@ -6,7 +6,7 @@ This document outlines the core implementation strategies for transforming infor
 
 ## Plan – Identify & Reflect / 计划 – 识别与反思
 
-### 01 Mental Model Upgrade / 心智模型升级**  
+### 01 Mental Model Upgrade / 心智模型升级  
 - **Reflection Tools / 反思工具:**  
   - *Inversion / 逆向思维:*  
     Think backward from the outcome you want and seek evidence against your current beliefs rather than only confirming them.  
