@@ -4,6 +4,19 @@ This document outlines the core implementation strategies for transforming infor
 
 ---
 
+## Plan – Identify & Reflect / 计划 – 识别与反思
+
+### 01 Mental Model Upgrade / 心智模型升级**  
+- **Reflection Tools / 反思工具:**  
+  - *Inversion / 逆向思维:*  
+    Think backward from the outcome you want and seek evidence against your current beliefs rather than only confirming them.  
+    从你期望的结果倒推，寻找反驳当前信念的证据，而不仅仅是确认已有观点。  
+- **Deliberate Discomfort / 主动寻求不适感:**  
+  - Actively seek experiences that push you out of your comfort zone, challenging your existing mental model.  
+    主动寻求能让你走出舒适区的体验，挑战你现有的心智模型。
+
+---
+
 ## Do – Implement Strategies / 执行 – 实施策略
 
 ### 02 Attention Management / 注意力管理  
