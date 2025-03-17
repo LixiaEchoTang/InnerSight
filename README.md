@@ -49,7 +49,7 @@ Your insights and feedback are invaluable. Let us know your thoughts on what we'
 
 ## Attribution
 
-This project is inspired by and based on the insights from the YouTube video “[Video Title](https://www.youtube.com/watch?v=WfE7Cl8qyKA)” by [Creator Name].
+This project is inspired by and based on the insights from the YouTube video “[It took me 35+ years to realize what I'll tell you in 15 minutes](https://www.youtube.com/watch?v=WfE7Cl8qyKA)” by [Productive Peter].
 
 - **Use Excerpts Carefully:**  
   Only short excerpts or summaries that fall under fair use are included, rather than large verbatim scripts from the video.
