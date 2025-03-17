@@ -4,6 +4,30 @@ This document outlines the core implementation strategies for transforming infor
 
 ---
 
+```mermaid
+mindmap
+  root((InnerSight))
+    %% 第一层
+    Plan(Plan)
+      %% 第二层
+      MentalModelUpgrade(01 Mental Model Upgrade<br>心智模型升级)
+
+    Do(Do)
+      AttentionManagement(02 Attention Management<br>注意力管理)
+      DecisionMaking(03 Decision Making Deconstructed<br>决策解构)
+      ImplementationGap(04 The Implementation Gap<br>执行差距)
+
+    Check(Check)
+      SystemDesign(05 System Design<br>系统设计)
+      Relationship(06 Relationship Dynamics<br>人际关系动态)
+
+    Act(Act)
+      SuccessParadox(07 The Success Paradox<br>成功悖论)
+      IdentityTransformation(08 Identity-Based Transformation<br>基于身份的转变)
+```
+
+---
+
 ## Plan – Identify & Reflect / 计划 – 识别与反思
 
 ### 01 Mental Model Upgrade / 心智模型升级  
