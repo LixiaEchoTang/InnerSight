@@ -1,0 +1,1 @@
+Direct your focus. It's a superpower. Yet most are taught time management, not attention. We all get 24 hours. What you do with that focus changes everything. There's power in selective ignorance. Wisdom isn’t about knowing more. It's knowing what matters and sticking to it.
