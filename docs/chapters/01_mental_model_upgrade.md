@@ -1,0 +1,1 @@
+Your mental models can open doors or shut them. Upgrading them is the best move you can make. But here’s the catch: you can’t see them. It’s like trying to see the back of your head without a mirror. You need tools to reflect.
