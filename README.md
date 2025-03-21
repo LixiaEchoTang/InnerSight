@@ -90,6 +90,16 @@ This project is inspired by and based on the insights from the YouTube video “
 - **Link to the Source:**  
   View the original video [here](https://www.youtube.com/watch?v=WfE7Cl8qyKA) for further context and insights.
 
+
+---
+
+## Source  
+《穷查理宝典：查理 · 芒格智慧箴言录 = Poor Charlies Almanack The Wit and Wisdom of Charles T. Munger ( etc.) (Z-Library)》
+《快速顯化你想要的人生：七心法掌握心想事成的力量 = Manifest 7 Steps to Living Your Best Life (蘿希 · 納福斯 (Roxie Nafousi) 著  陳怡如 譯) (Z-Library)》
+《潛能之源》（The Source: Open Your Mind, Change Your Life）
+《真正無懼的身心防彈術 (伊芙．波普拉斯（Evy Poumpouras）) (Z-Library)》
+
+
 ---
 
 ## License
