@@ -8,6 +8,10 @@ Most people try to force change with willpower alone. What if there were a bette
   - **Bridge the gap between knowing and doing:** Take small daily actions that compound over time to produce breakthrough insights.  
     通过每日持续的小动作弥合“知道”与“行动”之间的差距，这些小动作随着时间累积会带来突破性的洞见.
 
+观点高度契合达伦·哈迪（Darren Hardy）的《复利效应》（The Compound Effect）和詹姆斯·克利尔（James Clear）的《原子习惯》（Atomic Habits）。
+
+
+
     《原子习惯》——詹姆斯·克利尔（James Clear）
 核心思想： 小习惯的累积会带来指数级增长。
 如何支持执行差距理论？
