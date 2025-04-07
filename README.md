@@ -6,6 +6,22 @@ InnerSight is a project dedicated to transforming information into wisdom by foc
 
 ---
 
+✅ 最佳整合路径（继续沿用你现有结构）：
+📁 model/ 目录中的三个文件，直接内嵌以下内容：
+
+原笔记模块	融入目标文件	建议插入位置
+01 Mental Model Upgrade	self-regulation-layer.md	模块 5｜心智模型重构（已完成）
+02 Attention Management	self-management-layer.md	模块 6｜注意力管理系统（已完成）
+03 Decision Making Deconstructed	self-management-layer.md	模块 7｜决策解构（已完成）
+04 The Implementation Gap	self-management-layer.md	模块 8｜执行差距修复（已完成）
+05 System Design	self-actualization-layer.md	👉 建议添加为模块 5：系统化人生设计（已完成）
+06 Relationship Dynamics	self-management-layer.md	👉 模块 3｜关系结构搭建（可内嵌扩展内容）
+07 The Success Paradox	self-actualization-layer.md	新增模块 7（可命名：成功悖论 & 不确定性优势）
+08 Identity-Based Transformation	self-actualization-layer.md	模块 8｜身份驱动型转化（可强化引用）
+
+
+---
+
 ```mermaid
 mindmap
   root((InnerSight))
